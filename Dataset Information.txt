@@ -3,3 +3,7 @@ https://www.kaggle.com/datasets/thedevastator/secrets-of-vehicle-design-uncovere
 
 The presentation can also be found my URL here:
 https://docs.google.com/presentation/d/1FzdOR8StZyLYjkOnCWDspsHo0DFifVDewkxz_DBoLIM/edit#slide=id.g19aaa3fbb64_0_277
+
+Sources Used:
+https://towardsdatascience.com/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd
+https://www.geeksforgeeks.org/machine-learning-with-python/
