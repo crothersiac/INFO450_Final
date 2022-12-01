@@ -1,2 +1,5 @@
 The dataset was found here:
 https://www.kaggle.com/datasets/thedevastator/secrets-of-vehicle-design-uncovered?select=vehicle_dictionary.csv
+
+The presentation can also be found my URL here:
+https://docs.google.com/presentation/d/1FzdOR8StZyLYjkOnCWDspsHo0DFifVDewkxz_DBoLIM/edit#slide=id.g19aaa3fbb64_0_277
